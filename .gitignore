@@ -2,11 +2,15 @@
 
 # dependencies
 /node_modules
+
 /.pnp
 .pnp.js
 
 # testing
 /coverage
+
+#sanity dependencies
+/medium-nodejs-sanity/node_modules
 
 # next.js
 /.next/

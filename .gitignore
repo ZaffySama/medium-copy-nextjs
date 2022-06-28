@@ -10,7 +10,7 @@
 /coverage
 
 #sanity 
-/medium-nodejs-sanity
+/medium-nextjs-medium
 
 # next.js
 /.next/

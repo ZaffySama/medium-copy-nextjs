@@ -9,8 +9,8 @@
 # testing
 /coverage
 
-#sanity dependencies
-/medium-nodejs-sanity/node_modules
+#sanity 
+/medium-nodejs-sanity
 
 # next.js
 /.next/
